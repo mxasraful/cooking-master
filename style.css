@@ -1,0 +1,57 @@
+body{
+    width: 100%;
+    height: 100%;
+    background-color: #EDD263 !important;
+}
+
+/* Nav Bar style */
+
+.navbar-brand h3{
+    color: #3B2D64 !important;
+    font-weight: bold;
+}
+
+.nav-link{
+    font-weight: bold;
+    color: #383838;
+}
+
+
+/* Search Bar */
+
+.search-form{
+    margin: 0 auto !important;
+    margin-top: 40px;
+}
+
+.search-input{
+    border: none;
+    border-radius: 5px 0 0 5px !important;
+}
+
+.search-btn{
+    background-color: #3B2D64;
+    color: #fff;
+    border-radius: 0 5px 5px 0 !important;
+    border: none;
+}
+
+.search-btn:hover{
+    background-color: #342758;
+    color: rgb(167, 165, 165);
+}
+
+/* Foods */
+
+.food-item{
+    border: none;
+    border-radius: 10px;
+}
+
+.food-item:hover{
+    cursor: pointer;
+}
+
+.card-img-top{
+    border-radius: 10px 10px 0 0;
+}
